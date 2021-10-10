@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Su"
+	],
+	"copyright": "Copyright © 2021, Su",
+	"description": "simple hashtable implementation",
+	"license": "AGPL-3.0 or later",
+	"name": "hashtable"
+}

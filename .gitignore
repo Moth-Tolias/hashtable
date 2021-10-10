@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/hashtable
+hashtable.so
+hashtable.dylib
+hashtable.dll
+hashtable.a
+hashtable.lib
+hashtable-test-*
+*.exe
+*.o
+*.obj
+*.lst
